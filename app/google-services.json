@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "349621775109",
+    "firebase_url": "https://app-insragram.firebaseio.com",
+    "project_id": "app-insragram",
+    "storage_bucket": "app-insragram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349621775109:android:75d4a0c510d9eee1f4656c",
+        "android_client_info": {
+          "package_name": "com.satriaamrudito.cloneappinstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349621775109-lun8kboinbi7nsmsvk74pe6bmf604jii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.satriaamrudito.cloneappinstagram",
+            "certificate_hash": "72cd4e19ded9ef9fa064b7640b1d9372840b07bb"
+          }
+        },
+        {
+          "client_id": "349621775109-m195lnl072nmo0gftnaaujol6q693j1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoyoalzYMS6rRTLgxMe0ezxtbU3MUE2yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349621775109-m195lnl072nmo0gftnaaujol6q693j1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
